@@ -29,4 +29,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://github.com/kithera35/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+![Ornek](https://github.com/kithera35/kodluyoruzilkrepo/blob/main/kodluyoruz.png)
