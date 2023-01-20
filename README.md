@@ -29,4 +29,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://github.com/kithera35/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![Ornek](https://github.com/kithera35/kodluyoruzilkrepo/blob/main/kodluyoruz.png)
+![Ornek](https://raw.githubusercontent.com/kithera35/kodluyoruzilkrepo/main/kodluyoruz.png)
